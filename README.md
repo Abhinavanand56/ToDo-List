@@ -1,2 +1,2 @@
-ToDO List
+ToDo List
 To keep a track of your daily work
